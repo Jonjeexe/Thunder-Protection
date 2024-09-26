@@ -32,7 +32,7 @@ The official `Thunder --Protection` files can only be obtained from [Github rele
 [![Github](https://img.shields.io/badge/Github-Releases-48C21A.svg?style=flat&logo=github)](https://github.com/Kyliekyler/MAGNETAR/releases)
 ## License
 
-Thunder Protection is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+> Thunder Protection is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 
 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg?style=flat&logo=creativecommons"/></a>
 
