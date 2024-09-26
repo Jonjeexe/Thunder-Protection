@@ -1,6 +1,6 @@
 ## Thunder Protection
 
-![Thunder-Corvus](https://github.com/user-attachments/assets/c31c8f90-066d-4a71-9a47-5908e5d1958a)
+![ThunderProtection](https://github.com/user-attachments/assets/156e237e-a92c-4ea0-a5a6-ff0d91a017cf)
 
 [![Page Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKyliekyler%2FMAGNETAR&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Page+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
