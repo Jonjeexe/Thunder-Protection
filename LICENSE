@@ -1,16 +1,54 @@
-Thunder Protection License
+*Bootloop Protector License*
 
-@Copyright 2024 Jonjeexe
 
-This module is free for everyone who want use this module its helpful for those there system is read-only and Patching method doesn't work and who doesn't have Recovery to protect there device from unsupported modules
-so this module will automatically remove that unsupported modules 
-make sure make a backup of your modules which you flashes before because it 
-will remove all modules, if Module detected device is bootloop it will 
-unsupported remove Modules automatically !!
+*MIT License*
 
-*Warning 
-Don't edit anything if you don't have knowledge about that 
-otherwise you face problems ! maybe module doesn't flash or bootloop
 
-Credit @Jonjeexe
-26/09/2024
+Copyright (c) @Jonjeexe 2024
+
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+*Additional Information*
+
+
+- This software is free to use, modify, and distribute.
+- No warranty is provided, use at your own risk.
+- This software is intended to help users prevent bootloops, especially those without recovery.
+
+
+*Disclaimer*
+
+
+By using this software, you acknowledge that you understand and agree to the terms and conditions outlined in this license.
+
+
+*GitHub Repository Notice*
+
+
+This software is hosted on GitHub: [Your Repository URL]
+
+
+*Contributions*
+
+Contributions are welcome! Please submit pull requests or issues on GitHub.
+
