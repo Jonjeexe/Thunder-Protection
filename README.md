@@ -11,7 +11,7 @@
 
 **Device Protection —**
 
-This Module will Protect your device from Bootloop which caused by unsupported modules without patching your device boot.img , with Ai function when module detected device is in Bootloop it wil Automatically remove all modules and safely reboot to system
+This Module will Protect your device from Bootloop which caused by unsupported modules without patching your device boot.img , with Ai function when Ai detected device is in Bootloop it wil Automatically remove all modules and safely reboot to system
 
 ## Getting Started
 
