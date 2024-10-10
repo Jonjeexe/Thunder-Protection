@@ -1,5 +1,6 @@
 ## Thunder Protection
 
 > Protect system from unsupported modules
-> New Update ! v2.0
+
+- New Update ! v2.0
 
