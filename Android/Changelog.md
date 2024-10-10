@@ -4,3 +4,7 @@
 
 [![Page Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKyliekyler%2FMAGNETAR&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Page+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
+## Changelog
+> Thunder Protection won't kill itself after killing unsupported modules and safely reboot to system.
+
+> Credit [@Jonjeexe](t.me/jonjeexe)
